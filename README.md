@@ -101,3 +101,8 @@ This project is a complete demonstration of a machine learning model pipeline—
 
 internships and jobs in the field of AI and Data Science.
 #output
+![Image](https://github.com/user-attachments/assets/d5bda407-1b24-478e-b3a8-401e13b14e1a)
+
+![Image](https://github.com/user-attachments/assets/b67da45f-61ea-4c5d-85df-c3d73ea10408)
+
+![Image](https://github.com/user-attachments/assets/73660aa3-e34a-4dbc-b563-b813bfbd1504)
